@@ -1,6 +1,6 @@
 == Welcome to Rails Application
 
-
+== Rebase Changes 3rd Commit
 changed.
 
 Rails is a web-application framework that includes everything needed to create

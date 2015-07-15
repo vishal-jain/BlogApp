@@ -1,4 +1,5 @@
 == Rebase Changes 1st Commit
+== Rebase Changes 2nd Commit
 == Welcome to Rails Application
 
 == Rebase Changes 3rd Commit

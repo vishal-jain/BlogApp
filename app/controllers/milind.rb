@@ -1,2 +1,2 @@
 test in master.
-test conflict line 2
+changes test conflict line 2

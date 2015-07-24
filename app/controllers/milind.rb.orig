@@ -1,0 +1,7 @@
+test in master.
+<<<<<<< HEAD
+changes test conflict line 2
+=======
+test conflict line 2
+test line changes 2
+>>>>>>> 64a382d... test commit 006 new feature
